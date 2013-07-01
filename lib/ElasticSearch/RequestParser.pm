@@ -658,6 +658,7 @@ my %Search_Data = (
     size          => ['size'],
     'sort'        => ['sort'],
     track_scores  => ['track_scores'],
+    suggest       => ['suggest'],
 );
 
 my %Search_Defn = (

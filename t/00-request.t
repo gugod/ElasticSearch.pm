@@ -124,6 +124,7 @@ sub run_test_suite {
             search_from_size
             search_types
             search_facets
+            search_suggest
             search_explain
             search_sort
             search_fields
